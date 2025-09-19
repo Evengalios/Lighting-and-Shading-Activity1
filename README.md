@@ -1,4 +1,4 @@
-# Lighting & Shading — Activity 1
+# Lighting & Shading — Activity
 
 ## What I implemented
 Using a base texture and a normal map, I Implemented a normal-mapped Surface Shader using Unity's Surface Shader system with the Lambert lighting model. 
